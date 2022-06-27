@@ -1,0 +1,23 @@
+.header {
+  background: var(--primary-color);
+  color: var(--primary-contrast-color);
+  height: var(--header-height);
+}
+
+.header__headline {
+  color: lightpink;
+  font-size: 1.5rem;
+}
+
+.header__navlist {
+  display: flex;
+  flex-direction: row;
+}
+
+.header__navlist__item {
+  margin: 10px;
+}
+
+.header__navlist__item--active {
+  text-decoration: underline;
+}

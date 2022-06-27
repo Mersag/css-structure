@@ -1,0 +1,12 @@
+.article {
+  border: 10px solid black;
+  padding: 20px;
+  box-shadow: 0 0 20px 0 black;
+  background: white;
+  border-radius: var(--card-border-radius);
+  width: 100%;
+}
+
+.article__headline {
+  color: red;
+}

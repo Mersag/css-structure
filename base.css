@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --header-height: 100px;
+  --footer-height: 50px;
+
+  --primary-color: #3f3f3f;
+  --primary-contrast-color: white;
+  --card-border-radius: 20px;
+}
