@@ -5,12 +5,13 @@
 }
 
 .header__headline {
-  color: lightpink;
+  color: rgb(178, 208, 190);
   font-size: 1.5rem;
 }
 
 .header__navlist {
   display: flex;
+  justify-content: flex-end;
   flex-direction: row;
 }
 

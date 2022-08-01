@@ -1,12 +1,16 @@
 .article {
-  border: 10px solid black;
+  border: 10px solid rgba(14, 215, 158, 0.708);
   padding: 20px;
-  box-shadow: 0 0 20px 0 black;
+  box-shadow: 0 0 20px 0 rgb(4, 50, 50);
   background: white;
   border-radius: var(--card-border-radius);
   width: 100%;
 }
 
 .article__headline {
-  color: red;
+  color: rgb(31, 137, 105);
+}
+
+h1 {
+  color: rgb(49, 100, 84);
 }
